@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @meditatebeats;
 - 👀 I’m interested in Becoming a Genius programmer;
-- 🌱 I’m currently learning ...as much as I can before I Fall asleep;
-- 💞️ I’m looking to collaborate on Somthing to get me a job...
+- 🌱 I’m currently researching ...anything as much as I can before I Fall asleep;
 - 📫 How to reach me ...Email. 
 <!---
 meditatebeats/meditatebeats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
